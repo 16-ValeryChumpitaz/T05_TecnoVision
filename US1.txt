@@ -1,0 +1,13 @@
+Historia de Usuario: Generar Informe de Asistencia Mensual
+
+Estimación de tiempo: 3 horas
+
+Quiero: Poder generar un informe mensual de asistencia de los estudiantes en formato PDF.
+
+
+Criterios de Aceptación:
+
+Debe haber una opción clara para seleccionar el mes y el año del informe a generar.
+El informe PDF debe incluir una lista de estudiantes junto con sus respectivas asistencias y ausencias para el mes seleccionado.
+El informe debe ser visualmente claro y profesional.
+El sistema debe proporcionar una opción para descargar o imprimir el informe.
