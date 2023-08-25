@@ -1,0 +1,20 @@
+Como: Profesor (Lucas Mairatta)
+
+Quiero: Un sistema confiable y amigable que permita la comunicación a través de chat de usuarios, correo electrónico, etc., y facilite el registro de asistencia de los estudiantes en una comunidad educativa.
+
+Para: Registrar y comunicar eficazmente la asistencia de los estudiantes que pertenecen a diferentes clases y ubicaciones.
+
+Estimación: 2 semanas
+
+Valor: 60 - 100
+
+Criterios de Aceptación / Condiciones de Satisfacción:
+
+1.Debe ser posible comunicarse con los estudiantes a través de un sistema de chat interno dentro de la plataforma.
+2.Debe haber una función de envío de correos electrónicos para comunicar cambios importantes o recordatorios a los estudiantes y sus padres.
+3.El sistema debe permitir el registro de asistencia de los estudiantes de manera automática o manual.
+4.La plataforma debe incluir una función que ayude a prevenir la falta de comunicación, como recordatorios automáticos de clases o notificaciones de ausencia.
+5.Debe haber una opción para generar informes de asistencia de los estudiantes, lo que ayudará a sintonizarnos con el progreso y la asistencia de los estudiantes.
+6.El sistema debe ser de fácil uso y amigable para profesores, estudiantes y administradores.
+7.Debe haber un registro histórico de asistencia, que permita acceder a la asistencia de los estudiantes en clases anteriores.
+8.La plataforma debe proporcionar una sensación de tranquilidad al proporcionar información clara y organizada sobre la asistencia de los estudiantes.
